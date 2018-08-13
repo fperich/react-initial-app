@@ -1,18 +1,9 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-/**
- * Components
- */
-
-import CountrySelector from './components/countryselector/CountrySelector';
-
-
-
-
 const app = (
     <div>
-        <CountrySelector selected="cl" />
+        App ready to use
     </div>
 )
 

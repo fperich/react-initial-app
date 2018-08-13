@@ -2,7 +2,9 @@
   "name": "initial-react-app",
   "version": "1.0.0",
   "description": "Initial React App, ready to use for devs",
-  "keywords": ["react"],
+  "keywords": [
+    "react"
+  ],
   "author": "Fabian Perich Lara",
   "license": "MIT",
   "scripts": {
